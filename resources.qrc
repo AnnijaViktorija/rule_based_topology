@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/plugins/rule_based_topology" >
+        <file>icon.png</file>
+        <file>img/refresh.png</file>
+        <file>img/info.png</file>
+        <file>img/edit.png</file>
+        <file>img/delete.png</file>
+        <file>img/down.png</file>
+    </qresource>
+</RCC>
