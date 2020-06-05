@@ -1,3 +1,18 @@
 {
-  "current_lang": "eng"
+  "current_lang": "eng",
+  "rule_info": "",
+  "rule_edit": {
+    "layer1": "",
+    "field1": "",
+    "is_numeric1": "",
+    "field_filter1": "",
+    "field_filter_value1": "",
+    "check": "",
+    "layer2": "",
+    "field2": "",
+    "is_numeric2": "",
+    "field_filter2": "",
+    "field_filter_value2": "",
+    "title": ""
+  }
 }
